@@ -42,7 +42,7 @@ To run the scripts on your own machine, either use the **clone in VSCode** butto
    ```
 2. Clone the repository to your project directory:
    ```
-   git clone https://github.com/epaulgeo/sample_project.git
+   git clone https://github.com/epaulgeo/sample_project_python.git
    ```
 3. Install depencies using Pipenv:
    ```
